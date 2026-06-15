@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/ATIVIDADE 06_09.iml" filepath="$PROJECT_DIR$/ATIVIDADE 06_09.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/ATIVIDADE2.iml" filepath="$PROJECT_DIR$/ATIVIDADE2.iml" />
+>>>>>>> dd156d2 (Atividade 2)
     </modules>
   </component>
 </project>
